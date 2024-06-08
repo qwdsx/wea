@@ -1,6 +1,6 @@
 use clap::{Args, Parser, Subcommand};
 
-const ABOUT: &str= "weather";
+const ABOUT: &str= "CLI app that displays current weather";
 
 #[derive(Parser)]
 #[clap(about = ABOUT, version)]
