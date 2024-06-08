@@ -1,3 +1,4 @@
+## CLI application that displays current weather
 
 Example .env file
 ``` Bash
