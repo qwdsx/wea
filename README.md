@@ -1,4 +1,4 @@
-## CLI application that displays current weather
+## CLI app that displays current weather
 
 An API key is needed from http://api.openweathermap.org/
 
